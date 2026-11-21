@@ -1,2 +1,8 @@
 firmware/engine_ecu/engine_ecu
 third_party/
+dashboard/.venv/
+dashboard/.venv/
+dashboard/.venv/
+__pycache__/
+firmware/battery_ecu/battery_ecu
+firmware/battery_ecu/battery_ecu
